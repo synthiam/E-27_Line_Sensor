@@ -36,8 +36,6 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 
 [**Hardware:**](https://github.com/synthiam/E-27_Line_Sensor/tree/master/E-27%20Hardware) Altium PCB design File, Altium SCH Design File
 
-[**Firmware:**](https://github.com/synthiam/E-27_Line_Sensor/tree/master/E-27%20Firmware) Code, Compiled Hex
-
 *Altium Libraries are also available <a href="https://github.com/synthiam/Synthiam_Altium_Librairies">here</a>*
 
 ## Photos
