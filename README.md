@@ -32,7 +32,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 
 ## Contents
 
-[**Documentation:**](https://github.com/synthiam/E-27_Line_Sensor/tree/master/E-27%20Documentation)hematic PDF, Datasheet PDF, BOM
+[**Documentation:**](https://github.com/synthiam/E-27_Line_Sensor/tree/master/E-27%20Documentation) Schematic PDF, Datasheet PDF, BOM
 
 [**Hardware:**](https://github.com/synthiam/E-27_Line_Sensor/tree/master/E-27%20Hardware) Altium PCB design File, Altium SCH Design File
 
